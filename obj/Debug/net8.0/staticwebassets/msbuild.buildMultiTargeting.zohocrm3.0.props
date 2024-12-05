@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\zohocrm3.0.props" />
+</Project>

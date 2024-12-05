@@ -1,0 +1,6 @@
+@zohocrm3._0_HostAddress = http://localhost:5128
+
+GET {{zohocrm3._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
